@@ -1,0 +1,9 @@
+[
+    {
+        "source": "app/assistants/stage-assistant.js"
+    },
+    {
+        "scenes": "clearview",
+        "source": "app/assistants/clearview-assistant.js"
+    }
+]

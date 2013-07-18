@@ -1,0 +1,10 @@
+{
+	"id": "com.fxspec.clearview",
+	"version": "1.9.7",
+	"vendor": "fxspec06",
+	"type": "web",
+	"main": "index.html",
+	"title": "clearview",
+	"icon": "icon-large.png",
+	"uiRevision": "2"
+}

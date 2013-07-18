@@ -1,0 +1,8 @@
+#clearview {
+	position: fixed;
+	width: 190%;
+	height: 280%;
+	left: -455px;
+	top: -625px;
+	z-index: 1;
+}
